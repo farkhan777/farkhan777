@@ -20,4 +20,4 @@ My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhan777&layout=compact&theme=buefy)](https://github.com/farkhan777/github-readme-stats)
 
-![Farkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkhan777&show_icons=true&theme=buefy)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=farkhan777&show_icons=true&theme=buefy)
