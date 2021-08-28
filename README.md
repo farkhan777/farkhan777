@@ -7,6 +7,6 @@ My name is Farkhan, I am an Informatics Engineering student.
 - 💬 Ask me about anything
 - 📫 How to reach me: farhanhamzah71@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhan777&layout=compact&theme=dracula)](https://github.com/farkhan777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhan777&layout=compact&theme=buefy)](https://github.com/farkhan777/github-readme-stats)
 
-![Farkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkhan777&show_icons=true&theme=highcontrast)
+![Farkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkhan777&show_icons=true&theme=buefy)
