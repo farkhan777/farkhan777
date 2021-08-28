@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<pre>
+----------------------------------------
+<span>Farkhan, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
+
 My name is Farkhan, I am an Informatics Engineering student.
 
 - 🔭 I’m currently working on Laravel & ReactJS project
