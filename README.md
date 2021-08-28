@@ -11,7 +11,7 @@
               ||     ||
 </pre>
 
-My name is Farkhan, I am an Informatics Engineering student.
+My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 
 - 🔭 I’m currently working on Laravel & ReactJS project
 - 🌱 I’m currently learning Machine Learning and Front-End Web
