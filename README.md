@@ -16,7 +16,7 @@ My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 - 🔭 I’m currently working on Laravel & ReactJS projects
 - 🌱 I’m currently learning Machine Learning and Front-End Web
 - 💬 Ask me about anything
-- 📫 How to reach me: farhanhamzah71@gmail.com
+- ⚡ Fun Fact: I want to learn everything 🤣
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
