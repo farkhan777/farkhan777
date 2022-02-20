@@ -18,16 +18,23 @@ My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 - 💬 Ask me about anything
 - ⚡ Fun Fact: I want to learn everything 🤣 
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+### ⚙️ &nbsp;GitHub Analytics
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farkhan-hamzah-firdaus-5312a8202/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanhamzah71@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FarkhanHF)
+<p align="center">
+<a href="https://github.com/farkhan777">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farkhan777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farkhan777&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farkhan777&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farkhan777&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
+  </a>
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+### 🤝🏻 &nbsp;Connect with Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhan777&layout=compact&theme=buefy)](https://github.com/farkhan777/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=farkhan777&show_icons=true&theme=buefy" alt="farkhan777" />
-
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/devSahinur/devSahinur/blob/8b2ccedba59e761307684a95f4eaed96aa54b744/assets/Thanks.svg"/> 
+<p align="center">
+<a href="mailto:farhanhamzah71@gmail.com"><img src="https://img.shields.io/badge/-farhanhamzah71-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/FarkhanHF"><img src="https://img.shields.io/badge/-FarkhanHF-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/farkhan-hamzah-firdaus-5312a8202/"><img src="https://img.shields.io/badge/-Farkhan-blue?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
