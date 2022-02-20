@@ -31,6 +31,8 @@ My name is Farkhan, I am an Informatics Engineering student. :zany_face:
   </a>
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vfarkhan777) 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
