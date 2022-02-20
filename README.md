@@ -37,6 +37,6 @@ My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 
 <p align="center">
 <a href="mailto:farhanhamzah71@gmail.com"><img src="https://img.shields.io/badge/-farhanhamzah71-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/FarkhanHF"><img src="https://img.shields.io/badge/-FarkhanHF-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/KhanHF"><img src="https://img.shields.io/badge/-KhanHF-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/farkhan-hamzah-firdaus-5312a8202/"><img src="https://img.shields.io/badge/-Farkhan-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
