@@ -14,7 +14,7 @@
 My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 
 - 🔭 I’m currently working on Go & Ruby on rails projects
-- 🌱 I’m currently learning Machine Learning and Backend
+- 🌱 I’m currently learning Machine Learning and Backend Engineering
 - 💬 Ask me about anything
 - ⚡ Fun Fact: I want to learn everything 🤣 
 
