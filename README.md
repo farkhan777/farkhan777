@@ -13,8 +13,8 @@
 
 My name is Farkhan, I am an Informatics Engineering student. :zany_face:
 
-- 🔭 I’m currently working on Laravel & ReactJS projects
-- 🌱 I’m currently learning Machine Learning and Front-End Web
+- 🔭 I’m currently working on Go & Ruby on rails projects
+- 🌱 I’m currently learning Machine Learning and Backend
 - 💬 Ask me about anything
 - ⚡ Fun Fact: I want to learn everything 🤣 
 
